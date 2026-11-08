@@ -211,22 +211,23 @@
 
 | Tool | Description | License | Notes |
 |------|-------------|---------|-------|
-| [Playwright](https://playwright.dev) | Web testing & automation | Apache 2 | Cross-browser, auto-wait |
-| [Cypress](https://www.cypress.io) | End-to-end web testing | MIT | Great DX, time-travel debug |
-| [Vitest](https://vitest.dev) | Blazing fast unit test framework | MIT | Vite-native, Jest-compatible |
-| [Jest](https://jestjs.io) | Delightful JavaScript testing | MIT | The most popular JS test runner |
-| [Pytest](https://pytest.org) | Mature Python testing framework | MIT | Powerful fixtures, plugins |
-| [Testcontainers](https://testcontainers.com) | Real databases in Docker for tests | Apache 2 | Integration tests made easy |
-| [Mock Service Worker](https://mswjs.io) | API mocking for browser & Node | MIT | Intercept requests natively |
-| [Wiremock](https://wiremock.org) | Stub and mock HTTP APIs | Apache 2 | Great for integration testing |
-| [Selenium](https://www.selenium.dev) | Browser automation for testing | Apache 2 | Classic, language-agnostic |
-| [K6](https://k6.io) | Load testing with JS scripting | AGPL-3 | Developer-friendly load testing |
-| [Locust](https://locust.io) | Distributed load testing in Python | MIT | Script with Python |
-| [Gauge](https://gauge.org) | Lightweight test automation | Apache 2 | Spec-driven, markdown-based |
-| [Karate](https://karatelabs.github.io/karate) | API test automation in one file | MIT | DSL-free, plain English |
+| [agent-qa](https://vostride.com) | Natural-language web, Android and iOS QA | [FSL-1.1-ALv2](https://vostride.com/license.md), competing-use limits | Persistent memidex memory, validated self-improvement, inspectable run evidence; model/infra costs separate |
 | [Cucumber](https://cucumber.io) | BDD testing with Gherkin | MIT | Living documentation |
+| [Cypress](https://www.cypress.io) | End-to-end web testing | MIT | Great DX, time-travel debug |
+| [Gauge](https://gauge.org) | Lightweight test automation | Apache 2 | Spec-driven, markdown-based |
+| [Jest](https://jestjs.io) | Delightful JavaScript testing | MIT | The most popular JS test runner |
 | [Jest Preview](https://www.jest-preview.com) | Live browser preview for Jest tests | MIT | See your tests run visually |
+| [K6](https://k6.io) | Load testing with JS scripting | AGPL-3 | Developer-friendly load testing |
+| [Karate](https://karatelabs.github.io/karate) | API test automation in one file | MIT | DSL-free, plain English |
+| [Locust](https://locust.io) | Distributed load testing in Python | MIT | Script with Python |
+| [Mock Service Worker](https://mswjs.io) | API mocking for browser & Node | MIT | Intercept requests natively |
+| [Playwright](https://playwright.dev) | Web testing & automation | Apache 2 | Cross-browser, auto-wait |
+| [Pytest](https://pytest.org) | Mature Python testing framework | MIT | Powerful fixtures, plugins |
+| [Selenium](https://www.selenium.dev) | Browser automation for testing | Apache 2 | Classic, language-agnostic |
+| [Testcontainers](https://testcontainers.com) | Real databases in Docker for tests | Apache 2 | Integration tests made easy |
 | [Testing Library](https://testing-library.com) | Testing utilities for accessible UIs | MIT | DOM Testing Library + friends |
+| [Vitest](https://vitest.dev) | Blazing fast unit test framework | MIT | Vite-native, Jest-compatible |
+| [Wiremock](https://wiremock.org) | Stub and mock HTTP APIs | Apache 2 | Great for integration testing |
 
 ---
 
